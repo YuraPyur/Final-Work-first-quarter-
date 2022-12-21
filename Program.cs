@@ -21,7 +21,6 @@ for (int i = 0; i < array.Length; i++)
 }
 Console.WriteLine("Вывод элементов, длина которых меньше или равна 3: ");
 string[] array2 = new string[j];
-int e = 0;
 for (int i = 0, b = 0; i < array.Length; i++)
 {
 
