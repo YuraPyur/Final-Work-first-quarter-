@@ -31,3 +31,4 @@ for (int i = 0, b = 0; i < array.Length; i++)
         b++;
     }
 }
+if (j==0) Console.WriteLine("отсутствуют");
